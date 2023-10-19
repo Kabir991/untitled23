@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "782659788938",
+    "project_id": "ismail-a21c4",
+    "storage_bucket": "ismail-a21c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782659788938:android:0d04f3c4b67d21f93e4d73",
+        "android_client_info": {
+          "package_name": "com.example.untitled23"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW1XE9WcRw9MV28ezT-UX-oKqSWqLvTsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
